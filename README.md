@@ -45,6 +45,7 @@ Make sure your models inherit from `ActiveRecord::Base`
 
 
 ## Practice Using ActiveRecord
+(how do we search for a record, update, and delete a record?)
 
 
 In our Cat Model
